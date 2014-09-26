@@ -24,4 +24,5 @@ class ApplicationController < ActionController::Base
         :password_confirmation
         )
     end
+  end
 end
